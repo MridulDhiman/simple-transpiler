@@ -1,0 +1,12 @@
+{
+  "name": "simple-transpiler",
+  "version": "1.0.0",
+  "description": "Simple transpiler written to convert JS `class` syntax to \r `function`.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
